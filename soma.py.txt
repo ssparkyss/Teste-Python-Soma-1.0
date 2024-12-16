@@ -1,0 +1,11 @@
+a = 0
+b = 0
+soma = 0
+
+a = int(input("Introduza um número inteiro: "));
+
+b = int(input("Introduza outro número inteiro: "));
+
+soma = a + b
+
+print("Resultado da soma", soma)

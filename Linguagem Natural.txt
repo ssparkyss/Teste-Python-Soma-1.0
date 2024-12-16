@@ -1,0 +1,6 @@
+1-Início
+2-Ler(a)
+3-Ler(b)
+4-Soma <- a + b
+5-Escrever(soma)
+6-Fim
